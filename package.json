@@ -1,0 +1,19 @@
+{
+  "name": "af_lab_03",
+  "version": "1.0.0",
+  "description": "AF Lab 03",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT21037306/AF_LAB_03.git"
+  },
+  "author": "Ahamed Fahmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT21037306/AF_LAB_03/issues"
+  },
+  "homepage": "https://github.com/IT21037306/AF_LAB_03#readme"
+}
